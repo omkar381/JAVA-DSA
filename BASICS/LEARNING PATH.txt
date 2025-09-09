@@ -1,0 +1,4 @@
+!=  is not equal to 
+"+=" can be wirtten in place of xyz = xzy + 100  so it will be 
+                     xyz += 100;
+ 
