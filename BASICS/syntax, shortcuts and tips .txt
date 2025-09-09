@@ -15,12 +15,17 @@ for(initialization; condition; increment/decrement) {
     // code to run each time
 }
 
-While
+//While//
+
 while(condition) {
      // body
 }
 
+//do-while//
 
+do{
+   //body
+}while(condition);
 
 
 //Scanner Input//
@@ -31,3 +36,4 @@ Scanner input = new Scanner(System.in);
 int number = input.nextInt();    // integer input
 float temp = input.nextFloat();  // float input
 input.close();                   // close scanner when done
+
