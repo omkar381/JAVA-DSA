@@ -1,0 +1,33 @@
+!= → Not equal to
+
+if(a != b) {
+    // runs if a is not equal to b
+}
+
+
++= → Shortcut for addition
+xyz += 100;
+
+// Conditionals Statements//
+For Loop Syntax
+
+for(initialization; condition; increment/decrement) {
+    // code to run each time
+}
+
+While
+while(condition) {
+     // body
+}
+
+
+
+
+//Scanner Input//
+
+Read input from user:
+
+Scanner input = new Scanner(System.in);
+int number = input.nextInt();    // integer input
+float temp = input.nextFloat();  // float input
+input.close();                   // close scanner when done
